@@ -30,6 +30,11 @@ nav ul li{
     padding: 0 8px;
 }
 
+.brand img {
+    width: 44px;
+    padding: 0 8px;
+    border-radius: 50%;
+}
 .brand {
     display: flex;
     align-items: center;
